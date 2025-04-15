@@ -66,3 +66,7 @@ This project explores the use of deep learning for automating hematological anal
 - Scikit-learn
 
 ---
+
+## 📃 License
+
+This project is licensed under the [MIT License](LICENSE).
