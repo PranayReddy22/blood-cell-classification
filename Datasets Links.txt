@@ -1,0 +1,7 @@
+Datasets Links:
+
+Objective 1 (Bounding box model):
+https://github.com/Shenggan/BCCD_Dataset
+
+Objective 2 (WBC Classification):
+https://www.kaggle.com/datasets/paultimothymooney/blood
