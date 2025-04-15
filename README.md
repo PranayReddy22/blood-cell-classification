@@ -21,7 +21,7 @@ This project explores the use of deep learning for automating hematological anal
 ## 🧪 Datasets
 
 - [BCCD Dataset (for object detection)](https://github.com/Shenggan/BCCD_Dataset)
-- [Blood Cell Images Dataset (for subtype classification)](https://www.kaggle.com/datasets/paultimothymooney/blood)
+- [Blood Cell Images Dataset (for subtype classification)](https://www.kaggle.com/datasets/paultimothymooney/blood-cells)
 
 ---
 
